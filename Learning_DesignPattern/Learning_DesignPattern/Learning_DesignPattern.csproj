@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Learning_DesignPattern._01_Introduction.Introduction</StartupObject>
+    <StartupObject>Learning_DesignPattern.MainClass</StartupObject>
   </PropertyGroup>
 
 </Project>
